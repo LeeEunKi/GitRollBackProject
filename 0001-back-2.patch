@@ -1,0 +1,24 @@
+From edc28f773e7512837d036b758d5f0d76fb53996c Mon Sep 17 00:00:00 2001
+From: a <a@DESKTOP-MDOKG5A>
+Date: Mon, 4 Jul 2022 18:32:24 +0900
+Subject: [PATCH] back-2
+
+---
+ GitbackProject2/src/com/sist/main/MainClass.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/GitbackProject2/src/com/sist/main/MainClass.java b/GitbackProject2/src/com/sist/main/MainClass.java
+index fad2eea..94df781 100644
+--- a/GitbackProject2/src/com/sist/main/MainClass.java
++++ b/GitbackProject2/src/com/sist/main/MainClass.java
+@@ -5,6 +5,7 @@ public class MainClass {
+ 	public static void main(String[] args) {
+ 		// TODO Auto-generated method stub
+ 		System.out.println("Hello Git-1");
++		System.out.println("Hello Git-2");
+ 
+ 	}
+ 
+-- 
+2.37.0.windows.1
+
